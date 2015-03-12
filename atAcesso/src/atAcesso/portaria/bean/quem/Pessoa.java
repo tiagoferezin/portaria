@@ -71,7 +71,6 @@ public class Pessoa {
 
 	public void setIdDependente(Long idDependente) {
 		this.idDependente = idDependente;
-		
 	}
 
 	public Pessoa getDependente() {
