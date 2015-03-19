@@ -19,7 +19,6 @@ public class Documento {
 	private Calendar dataDesativacao;
 
 	public Documento() {
-		
 
 	}
 
